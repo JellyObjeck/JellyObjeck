@@ -53,12 +53,15 @@ fO0zePeXc3PrI10/iR4O
 
 ## 🌐Socials
 
-<details>
-<summary>Details</summary>
+[//]: # (<details>)
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/erbanku) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/erbanku) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erbanku) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/erbankuglobal) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@erbanku) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/erbanku)
+[//]: # (<summary>Details</summary>)
 
-</details>
+[//]: # ()
+[//]: # ([![Discord]&#40;https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&#41;]&#40;https://discord.com/users/erbanku&#41; [![Instagram]&#40;https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&#41;]&#40;https://instagram.com/erbanku&#41; [![LinkedIn]&#40;https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&#41;]&#40;https://linkedin.com/in/erbanku&#41; [![Reddit]&#40;https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white&#41;]&#40;https://reddit.com/user/erbankuglobal&#41; [![TikTok]&#40;https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white&#41;]&#40;https://tiktok.com/@erbanku&#41; [![Twitter]&#40;https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&#41;]&#40;https://twitter.com/erbanku&#41;)
+
+[//]: # ()
+[//]: # (</details>)
 
 <details>
 ## 💻 Tech Stack
@@ -75,46 +78,45 @@ fO0zePeXc3PrI10/iR4O
 <summary>Details</summary>
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=erbanku&show_icons=true&theme=dark">
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=erbanku&show_icons=true&theme=light">
-<img src="https://github-readme-stats.vercel.app/api?username=erbanku&show_icons=true&theme=light" alt="GitHub Stats">
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JellyObjeck&show_icons=true&theme=dark">
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=JellyObjeck&show_icons=true&theme=light">
+<img src="https://github-readme-stats.vercel.app/api?username=JellyObjeck&show_icons=true&theme=light" alt="GitHub Stats">
 </picture>
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=@erbanku&theme=dark">
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=@erbanku&theme=light">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@erbanku&theme=light" alt="WakaTime Stats">
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=@JellyObjeck&theme=dark">
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=@JellyObjeck&theme=light">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@JellyObjeck&theme=light" alt="WakaTime Stats">
 </picture>
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=erbanku&layout=compact&theme=dark">
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=erbanku&layout=compact&theme=light">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erbanku&layout=compact&theme=light" alt="Top Languages">
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JellyObjeck&layout=compact&theme=dark">
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JellyObjeck&layout=compact&theme=light">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JellyObjeck&layout=compact&theme=light" alt="Top Languages">
 </picture>
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@erbanku/ac1f4813-bf3c-4d8b-a59b-2fac7daf3cee.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@erbanku/177f0028-d4c0-4894-9adb-e721113852ee.svg">
-<img src="https://wakatime.com/share/@erbanku/177f0028-d4c0-4894-9adb-e721113852ee" alt="WakaTime">
+<source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@JellyObjeck/ac1f4813-bf3c-4d8b-a59b-2fac7daf3cee.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@JellyObjeck/177f0028-d4c0-4894-9adb-e721113852ee.svg">
+<img src="https://wakatime.com/share/@JellyObjeck/177f0028-d4c0-4894-9adb-e721113852ee" alt="WakaTime">
 </picture>
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@erbanku/80646b3c-399a-4569-b619-24e7d2e127b1.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@erbanku/759a2375-491e-4e8a-9afb-7e7557f1e8c2.svg">
-<img src="https://wakatime.com/share/@erbanku/759a2375-491e-4e8a-9afb-7e7557f1e8c2" alt="WakaTime">
+<source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@JellyObjeck/80646b3c-399a-4569-b619-24e7d2e127b1.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@JellyObjeck/759a2375-491e-4e8a-9afb-7e7557f1e8c2.svg">
+<img src="https://wakatime.com/share/@JellyObjeck/759a2375-491e-4e8a-9afb-7e7557f1e8c2" alt="WakaTime">
 </picture>
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=erbanku&branding=false&chart-bg-color=transparent&bg=16324e&tetx-label-color=fff">
-<source media="(prefers-color-scheme: light)" srcset="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=erbanku&branding=false&chart-bg-color=transparent&bg=fff">
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=erbanku&branding=false&chart-bg-color=transparent&bg=fff" alt="Code::Stats">
+<source media="(prefers-color-scheme: dark)" srcset="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=JellyObjeck&branding=false&chart-bg-color=transparent&bg=16324e&tetx-label-color=fff">
+<source media="(prefers-color-scheme: light)" srcset="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=JellyObjeck&branding=false&chart-bg-color=transparent&bg=fff">
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=JellyObjeck&branding=false&chart-bg-color=transparent&bg=fff" alt="Code::Stats">
 </picture>
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erbanku/erbanku/main/profile-3d-contrib/profile-night-green.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erbanku/erbanku/main/profile-3d-contrib/profile-green.svg">
-<img src="https://raw.githubusercontent.com/erbanku/erbanku/main/profile-3d-contrib/profile-green.svg" alt="3D Contributions">
-
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JellyObjeck/JellyObjeck/main/profile-3d-contrib/profile-night-green.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JellyObjeck/JellyObjeck/main/profile-3d-contrib/profile-green.svg">
+<img src="https://raw.githubusercontent.com/JellyObjeck/JellyObjeck/main/profile-3d-contrib/profile-green.svg" alt="3D Contributions">
 </picture>
 
 </details>
