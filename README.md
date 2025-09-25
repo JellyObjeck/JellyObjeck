@@ -74,105 +74,112 @@ fO0zePeXc3PrI10/iR4O
 
 ## 📊 GitHub Stats
 
-<details>
-<summary>Details</summary>
-
-<img src="https://github-readme-stats.vercel.app/api?username=JellyObjeck&show_icons=true&theme=light" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JellyObjeck&layout=compact&theme=light" alt="Top Languages" />
-
-<img src="https://wakatime.com/share/@JellyObjeck/177f0028-d4c0-4894-9adb-e721113852ee.svg" alt="WakaTime" />
-
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=JellyObjeck&branding=false&chart-bg-color=transparent&bg=fff" alt="Code::Stats" />
-
-<img src="https://raw.githubusercontent.com/JellyObjeck/JellyObjeck/main/profile-3d-contrib/profile-green.svg" alt="3D Contributions" />
-
-</details>
-
-[//]: # ()
 [//]: # (<details>)
 
 [//]: # (<summary>Details</summary>)
 
 [//]: # ()
-[//]: # (<picture>)
-
-[//]: # (<source media="&#40;prefers-color-scheme: dark&#41;" srcset="https://github-readme-stats.vercel.app/api?username=JellyObjeck&show_icons=true&theme=dark">)
-
-[//]: # (<source media="&#40;prefers-color-scheme: light&#41;" srcset="https://github-readme-stats.vercel.app/api?username=JellyObjeck&show_icons=true&theme=light">)
-
-[//]: # (<img src="https://github-readme-stats.vercel.app/api?username=JellyObjeck&show_icons=true&theme=light" alt="GitHub Stats">)
-
-[//]: # (</picture>)
+[//]: # (<img src="https://github-readme-stats.vercel.app/api?username=JellyObjeck&show_icons=true&theme=light" alt="GitHub Stats" />)
 
 [//]: # ()
-[//]: # (<picture>)
-
-[//]: # (<source media="&#40;prefers-color-scheme: dark&#41;" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=@JellyObjeck&theme=dark">)
-
-[//]: # (<source media="&#40;prefers-color-scheme: light&#41;" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=@JellyObjeck&theme=light">)
-
-[//]: # (<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@JellyObjeck&theme=light" alt="WakaTime Stats">)
-
-[//]: # (</picture>)
+[//]: # (<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JellyObjeck&layout=compact&theme=light" alt="Top Languages" />)
 
 [//]: # ()
-[//]: # (<picture>)
-
-[//]: # (<source media="&#40;prefers-color-scheme: dark&#41;" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JellyObjeck&layout=compact&theme=dark">)
-
-[//]: # (<source media="&#40;prefers-color-scheme: light&#41;" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JellyObjeck&layout=compact&theme=light">)
-
-[//]: # (<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JellyObjeck&layout=compact&theme=light" alt="Top Languages">)
-
-[//]: # (</picture>)
+[//]: # (<img src="https://wakatime.com/share/@JellyObjeck/177f0028-d4c0-4894-9adb-e721113852ee.svg" alt="WakaTime" />)
 
 [//]: # ()
-[//]: # (<picture>)
-
-[//]: # (<source media="&#40;prefers-color-scheme: dark&#41;" srcset="https://wakatime.com/share/@JellyObjeck/ac1f4813-bf3c-4d8b-a59b-2fac7daf3cee.svg">)
-
-[//]: # (<source media="&#40;prefers-color-scheme: light&#41;" srcset="https://wakatime.com/share/@JellyObjeck/177f0028-d4c0-4894-9adb-e721113852ee.svg">)
-
-[//]: # (<img src="https://wakatime.com/share/@JellyObjeck/177f0028-d4c0-4894-9adb-e721113852ee" alt="WakaTime">)
-
-[//]: # (</picture>)
+[//]: # (<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=JellyObjeck&branding=false&chart-bg-color=transparent&bg=fff" alt="Code::Stats" />)
 
 [//]: # ()
-[//]: # (<picture>)
-
-[//]: # (<source media="&#40;prefers-color-scheme: dark&#41;" srcset="https://wakatime.com/share/@JellyObjeck/80646b3c-399a-4569-b619-24e7d2e127b1.svg">)
-
-[//]: # (<source media="&#40;prefers-color-scheme: light&#41;" srcset="https://wakatime.com/share/@JellyObjeck/759a2375-491e-4e8a-9afb-7e7557f1e8c2.svg">)
-
-[//]: # (<img src="https://wakatime.com/share/@JellyObjeck/759a2375-491e-4e8a-9afb-7e7557f1e8c2" alt="WakaTime">)
-
-[//]: # (</picture>)
-
-[//]: # ()
-[//]: # (<picture>)
-
-[//]: # (<source media="&#40;prefers-color-scheme: dark&#41;" srcset="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=JellyObjeck&branding=false&chart-bg-color=transparent&bg=16324e&tetx-label-color=fff">)
-
-[//]: # (<source media="&#40;prefers-color-scheme: light&#41;" srcset="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=JellyObjeck&branding=false&chart-bg-color=transparent&bg=fff">)
-
-[//]: # (<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=JellyObjeck&branding=false&chart-bg-color=transparent&bg=fff" alt="Code::Stats">)
-
-[//]: # (</picture>)
-
-[//]: # ()
-[//]: # (<picture>)
-
-[//]: # (<source media="&#40;prefers-color-scheme: dark&#41;" srcset="https://raw.githubusercontent.com/JellyObjeck/JellyObjeck/main/profile-3d-contrib/profile-night-green.svg">)
-
-[//]: # (<source media="&#40;prefers-color-scheme: light&#41;" srcset="https://raw.githubusercontent.com/JellyObjeck/JellyObjeck/main/profile-3d-contrib/profile-green.svg">)
-
-[//]: # (<img src="https://raw.githubusercontent.com/JellyObjeck/JellyObjeck/main/profile-3d-contrib/profile-green.svg" alt="3D Contributions">)
-
-[//]: # (</picture>)
+[//]: # (<img src="https://raw.githubusercontent.com/JellyObjeck/JellyObjeck/main/profile-3d-contrib/profile-green.svg" alt="3D Contributions" />)
 
 [//]: # ()
 [//]: # (</details>)
+
+
+<details>
+
+<summary>Details</summary>
+
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JellyObjeck&show_icons=true&theme=dark">
+
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=JellyObjeck&show_icons=true&theme=light">
+
+<img src="https://github-readme-stats.vercel.app/api?username=JellyObjeck&show_icons=true&theme=light" alt="GitHub Stats">
+
+</picture>
+
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=@JellyObjeck&theme=dark">
+
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=@JellyObjeck&theme=light">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@JellyObjeck&theme=light" alt="WakaTime Stats">
+
+</picture>
+
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JellyObjeck&layout=compact&theme=dark">
+
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JellyObjeck&layout=compact&theme=light">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JellyObjeck&layout=compact&theme=light" alt="Top Languages">
+
+</picture>
+
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@JellyObjeck/ac1f4813-bf3c-4d8b-a59b-2fac7daf3cee.svg">
+
+<source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@JellyObjeck/177f0028-d4c0-4894-9adb-e721113852ee.svg">
+
+<img src="https://wakatime.com/share/@JellyObjeck/177f0028-d4c0-4894-9adb-e721113852ee" alt="WakaTime">
+
+</picture>
+
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@JellyObjeck/80646b3c-399a-4569-b619-24e7d2e127b1.svg">
+
+<source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@JellyObjeck/759a2375-491e-4e8a-9afb-7e7557f1e8c2.svg">
+
+<img src="https://wakatime.com/share/@JellyObjeck/759a2375-491e-4e8a-9afb-7e7557f1e8c2" alt="WakaTime">
+
+</picture>
+
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)" srcset="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=JellyObjeck&branding=false&chart-bg-color=transparent&bg=16324e&tetx-label-color=fff">
+
+<source media="(prefers-color-scheme: light)" srcset="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=JellyObjeck&branding=false&chart-bg-color=transparent&bg=fff">
+
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=JellyObjeck&branding=false&chart-bg-color=transparent&bg=fff" alt="Code::Stats">
+
+</picture>
+
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JellyObjeck/JellyObjeck/main/profile-3d-contrib/profile-night-green.svg">
+
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JellyObjeck/JellyObjeck/main/profile-3d-contrib/profile-green.svg">
+
+<img src="https://raw.githubusercontent.com/JellyObjeck/JellyObjeck/main/profile-3d-contrib/profile-green.svg" alt="3D Contributions">
+
+</picture>
+
+
+</details>
 
 ## ✍️Random Dev Quote
 
