@@ -74,27 +74,6 @@ fO0zePeXc3PrI10/iR4O
 
 ## 📊 GitHub Stats
 
-[//]: # (<details>)
-
-[//]: # (<summary>Details</summary>)
-
-[//]: # ()
-[//]: # (<img src="https://github-readme-stats.vercel.app/api?username=JellyObjeck&show_icons=true&theme=light" alt="GitHub Stats" />)
-
-[//]: # ()
-[//]: # (<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JellyObjeck&layout=compact&theme=light" alt="Top Languages" />)
-
-[//]: # ()
-[//]: # (<img src="https://wakatime.com/share/@JellyObjeck/177f0028-d4c0-4894-9adb-e721113852ee.svg" alt="WakaTime" />)
-
-[//]: # ()
-[//]: # (<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=JellyObjeck&branding=false&chart-bg-color=transparent&bg=fff" alt="Code::Stats" />)
-
-[//]: # ()
-[//]: # (<img src="https://raw.githubusercontent.com/JellyObjeck/JellyObjeck/main/profile-3d-contrib/profile-green.svg" alt="3D Contributions" />)
-
-[//]: # ()
-[//]: # (</details>)
 
 
 <details>
@@ -194,3 +173,10 @@ fO0zePeXc3PrI10/iR4O
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://PayPal.Me/guoog) 
 ## 📫Contact me
   [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jellychou001@gmail.com)
+
+
+<details>
+<summary>🎮 My Game-style Contributions & Stats</summary>
+<!-- 3D Contributions - 贪吃蛇风格 -->
+<img src="profile-snake-contrib/github-contribution-grid-snake.svg" alt="Snake-style 3D Contributions" />
+</details>
