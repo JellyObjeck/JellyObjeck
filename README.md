@@ -1,10 +1,10 @@
+# ![open-source](https://user-images.githubusercontent.com/79493862/130308685-60eee7b7-120a-45ae-8a41-35d090ae335c.png) Jelly ❤️ Open Source
 
-# ![open-source](https://user-images.githubusercontent.com/79493862/130308685-60eee7b7-120a-45ae-8a41-35d090ae335c.png) Cactus ❤️ Open Source
-
-## Contributing to the World's Open Source Projects
-### Pursuing Fast, Efficient & Reliable Smart Software Solutions with Cutting-Edge Innovation.
-[![](https://visitcount.itsvg.in/api?id=erbanku&icon=2&color=11)](https://visitcount.itsvg.in)
+## 🚀 Contributing to the World's Open Source Projects
+### ⚡ Pursuing Fast, Efficient & Reliable Smart Software Solutions with Cutting-Edge Innovation.
+[![](https://visitcount.itsvg.in/api?id=JellyObjeck&icon=2&color=11)](https://visitcount.itsvg.in)
 [![justforfunnoreally.dev badge](https://img.shields.io/badge/justforfunnoreally-dev-9ff)](https://justforfunnoreally.dev)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/35e9158f-be84-4828-bc34-e1b43467700a">
@@ -50,7 +50,7 @@ fO0zePeXc3PrI10/iR4O
 
 </details>
 
-<!--
+
 ## 🌐Socials
 
 <details>
@@ -59,8 +59,8 @@ fO0zePeXc3PrI10/iR4O
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/erbanku) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/erbanku) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erbanku) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/erbankuglobal) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@erbanku) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/erbanku)
 
 </details>
--->
 
+<details>
 ## 💻 Tech Stack
 
 ![header_](https://github.com/erbanku/erbanku/assets/79493862/543c5ef4-bae2-45c3-9742-04af4b56cda1)
