@@ -1,7 +1,7 @@
 # ![open-source](https://user-images.githubusercontent.com/79493862/130308685-60eee7b7-120a-45ae-8a41-35d090ae335c.png) Jelly ❤️ Open Source
 
-## 🚀 Contributing to the World's Open Source Projects
-### ⚡ Pursuing Fast, Efficient & Reliable Smart Software Solutions with Cutting-Edge Innovation.
+## 🚀 Aspiring to be a skilled programmer, contributing to the community
+### ⚡ Learning constantly, seeking effective solutions, and refining my ideas..
 [![](https://visitcount.itsvg.in/api?id=JellyObjeck&icon=2&color=11)](https://visitcount.itsvg.in)
 [![justforfunnoreally.dev badge](https://img.shields.io/badge/justforfunnoreally-dev-9ff)](https://justforfunnoreally.dev)
 
