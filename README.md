@@ -87,16 +87,14 @@
 <details>
 
 <summary>Details</summary>
-
 <!-- GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=JellyObjeck&show_icons=true&theme=radical" alt="GitHub Stats" />
 
-<!-- Top Languages -->
+<!-- Top Languages (基于 GitHub 仓库代码量) -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JellyObjeck&layout=compact&theme=radical" alt="Top Languages" />
 
-<!-- WakaTime Stats -->
+<!-- WakaTime Stats (基于真实写代码时间，更准确) -->
 <!-- <img src="https://wakatime.com/share/@JellyObjeck/177f0028-d4c0-4894-9adb-e721113852ee.svg" alt="WakaTime Stats" /> -->
-
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JellyObjeck/JellyObjeck/main/profile-3d-contrib/profile-night-green.svg">
@@ -128,3 +126,4 @@
 <img src="profile-snake-contrib/github-contribution-grid-snake.svg" alt="Snake-style 3D Contributions" />
 
 </details>
+
