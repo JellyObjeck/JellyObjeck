@@ -95,7 +95,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JellyObjeck&layout=compact&theme=radical" alt="Top Languages" />
 
 <!-- WakaTime Stats -->
-<img src="https://wakatime.com/share/@JellyObjeck/177f0028-d4c0-4894-9adb-e721113852ee.svg" alt="WakaTime Stats" />
+<!-- <img src="https://wakatime.com/share/@JellyObjeck/177f0028-d4c0-4894-9adb-e721113852ee.svg" alt="WakaTime Stats" /> -->
 
 
 <picture>
@@ -126,4 +126,5 @@
 <summary>🎮 My Game-style Contributions & Stats</summary>
 <!-- 3D Contributions - 贪吃蛇风格 -->
 <img src="profile-snake-contrib/github-contribution-grid-snake.svg" alt="Snake-style 3D Contributions" />
+
 </details>
