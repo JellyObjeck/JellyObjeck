@@ -1,24 +1,55 @@
 name: Waka Readme
 
+# 触发器：每天一次 + 手动触发
 on:
   schedule:
     - cron: '0 0 * * *'
   workflow_dispatch:
-  
+
+# 让 workflow 有权写入仓库（重要：用于 push 更新 README）
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
+
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      # 1) 先检查 GH_TOKEN 是否已在仓库 Secrets 中配置
+      - name: Check GH_TOKEN secret exists
+        run: |
+          if [ -z "$GH_TOKEN" ]; then
+            echo "::error::GH_TOKEN is empty or not configured! Please add a Personal Access Token as repository secret named GH_TOKEN."
+            exit 1
+          else
+            echo "GH_TOKEN is present (value masked)."
+          fi
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+      # 2) checkout 仓库（很多 action 需要工作区来修改并提交）
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # 我们使用自定义 GH_TOKEN 提交，所以不保留默认的 GITHUB_TOKEN
+          persist-credentials: false
+
+      # 3) 运行 waka-readme-stats action（传入 secrets）
+      - name: Run Waka Readme Stats (update README)
+        uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_LINES_OF_CODE : "False"
-          SHOW_PROFILE_VIEWS : "False"
-          SHOW_LANGUAGE_PER_REPO : "False"
-          SHOW_LOC_CHART : "False"
-          SHOW_SHORT_INFO : "False"
-          SHOW_PROJECTS : "False"
-          SHOW_TOTAL_CODE_TIME : "False"
-          SHOW_TITLE : true
+          SHOW_LINES_OF_CODE: "false"
+          SHOW_PROFILE_VIEWS: "false"
+          SHOW_LANGUAGE_PER_REPO: "false"
+          SHOW_LOC_CHART: "false"
+          SHOW_SHORT_INFO: "false"
+          SHOW_PROJECTS: "false"
+          SHOW_TOTAL_CODE_TIME: "false"
+          SHOW_TITLE: "true"
+          # 以下是可选，方便定位和 commit
+          COMMIT_MESSAGE: "chore: update README with waka stats"
+          COMMIT_USERNAME: "github-actions[bot]"
+          COMMIT_EMAIL: "github-actions[bot]@users.noreply.github.com"
