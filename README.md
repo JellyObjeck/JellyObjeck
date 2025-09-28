@@ -88,13 +88,21 @@
 
 <summary>Details</summary>
 <!-- GitHub Stats -->
+<!-- 最近一个月的项目统计 -->
+<img src="https://wakatime.com/share/@018b1971-7c88-421e-b6aa-e2cf1818adba/3c0fe22e-7a5b-49e5-81e8-7cd8e247a569.svg" alt="WakaTime last 30 days" />
+
 <img src="https://github-readme-stats.vercel.app/api?username=JellyObjeck&show_icons=true&theme=radical" alt="GitHub Stats" />
 
 <!-- Top Languages (基于 GitHub 仓库代码量) -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JellyObjeck&layout=compact&theme=radical" alt="Top Languages" />
 
-<!-- WakaTime Stats (基于真实写代码时间，更准确) -->
-<!-- <img src="https://wakatime.com/share/@JellyObjeck/177f0028-d4c0-4894-9adb-e721113852ee.svg" alt="WakaTime Stats" /> -->
+<!-- WakaTime Stats (基于真实写代码时间) -->
+
+<!-- 最近一周的编码语言统计 -->
+<img src="https://wakatime.com/share/@018b1971-7c88-421e-b6aa-e2cf1818adba/d9a29ea9-9238-4f73-9271-998b1ecb330b.svg" alt="WakaTime last 7 days" />
+
+<!-- 总体语言使用情况 -->
+<img src="https://wakatime.com/share/@018b1971-7c88-421e-b6aa-e2cf1818adba/8b9c70fc-68c5-4953-b743-2c2457f7520e.svg" alt="WakaTime All time stats" />
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JellyObjeck/JellyObjeck/main/profile-3d-contrib/profile-night-green.svg">
@@ -126,4 +134,5 @@
 <img src="profile-snake-contrib/github-contribution-grid-snake.svg" alt="Snake-style 3D Contributions" />
 
 </details>
+
 
