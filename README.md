@@ -138,9 +138,9 @@
 <summary><b>Snake contribution animation</b></summary>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JellyObjeck/JellyObjeck/blob/output/profile-snake-contrib/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/JellyObjeck/JellyObjeck/blob/output/profile-snake-contrib/github-contribution-grid-snake.svg">
-  <img alt="Snake-style Contributions" src="https://github.com/JellyObjeck/JellyObjeck/blob/output/profile-snake-contrib/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-snake-contrib/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-snake-contrib/github-contribution-grid-snake.svg">
+  <img alt="Snake-style Contributions" src="./profile-snake-contrib/github-contribution-grid-snake.svg">
 </picture>
 
 </details>
